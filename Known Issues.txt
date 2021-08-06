@@ -1,0 +1,13 @@
+OOP Final Project - 2nd Semester 2020 - Known Issues File.
+------------------
+Dev. By Dorel Saig - Id 308065176
+
+Known Issues:
+1. There's no indication for the final score of each match. Option to add in the future.
+2. There's no way to change/edit participant name after hitting the "add participant" button.
+3. At the Overtime views and at the penalties view the name of the participants is not shown.
+4. If an exception is thrown in the tennis game, the program will be closed in order to reset the game score and user required to start over again.
+
+No more bugs that I found.
+
+Dev. By Dorel Saig - Id308065176
