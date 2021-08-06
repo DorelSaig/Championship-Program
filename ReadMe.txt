@@ -1,6 +1,6 @@
 OOP Final Project - 2nd Semester 2020 - Read Me File
 ------------------
-Dev. By Dorel Saig - Id 308065176
+Dev. By Dorel Saig 
                                        ======================= Championship Visual Program =========================
 
 The main purpose of the program is to make a visual tool to manage and calculate Tennis/Basketball/Soccer championship games more easily.
@@ -82,5 +82,5 @@ Instructions / How to use:
 Hope you liked the program :)
                           Thank you and have a good day!
 
-Dev. By Dorel Saig - Id308065176
+Dev. By Dorel Saig 
 
